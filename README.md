@@ -32,7 +32,7 @@ In this project i had performed various Classification Techniques such as
 3. Support Vector Machine
 4. Logistic Regression
 
-Evaluated my model using different evaluation matrics such as
+Evaluated my model using few Evaluation Techniques such as
 1. Jaccard
 2. F1-score
 3. LogLoss
